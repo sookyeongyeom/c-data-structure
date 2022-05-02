@@ -3,15 +3,18 @@
 ## 공부 일정
 
 ## Chapter 01 자료구조와 알고리즘의 이해
+**22.05.03 화**
 - [ ] 자료구조(Data Structure)에 대한 기본적인 이해 ✔️
 - [ ] 알고리즘의 성능분석 방법 ✔️
  
 ## Chapter 02 재귀(Recursion)
+**22.05.04 수**
 - [ ] 함수의 재귀적 호출의 이해
 - [ ] 재귀의 활용
 - [ ] 하노이 타워: The Tower of Hanoi
 
 ## Chapter 03 연결 리스트(Linked List) 1
+**22.05.05 목**
 - [ ] 추상 자료형: Abstract Data Type
 - [ ] 배열을 이용한 리스트의 구현
 
