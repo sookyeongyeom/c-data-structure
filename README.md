@@ -1,6 +1,6 @@
 # 윤성우의 열혈 자료구조
 
-[**DS TIL**](https://github.com/sookyeongyeom/today-i-learned/tree/master/02.%20Computer%20Science/Data%20Structures)
+[**Data Structures TIL**](https://github.com/sookyeongyeom/today-i-learned/tree/master/02.%20Computer%20Science/Data%20Structures)
 
 ## Chapter 01 자료구조와 알고리즘의 이해
 **22.05.03 화**
