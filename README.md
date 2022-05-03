@@ -21,7 +21,7 @@
 ## Chapter 04 연결 리스트(Linked List) 2
 - [ ] 연결 리스트의 개념적인 이해 ✔
 - [ ] 단순 연결 리스트의 ADT와 구현 ✔
-- [ ] 연결 리스트의 정렬 삽입의 구현
+- [ ] 연결 리스트의 정렬 삽입의 구현 ✔
 
 ## Chapter 05 연결 리스트(Linked List) 3
 - [ ] 원형 연걸 리스트(Circular Linked List)
