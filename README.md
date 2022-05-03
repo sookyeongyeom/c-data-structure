@@ -24,7 +24,7 @@
 - [ ] 연결 리스트의 정렬 삽입의 구현 ✔
 
 ## Chapter 05 연결 리스트(Linked List) 3
-- [ ] 원형 연걸 리스트(Circular Linked List)
+- [ ] 원형 연결 리스트(Circular Linked List)
 - [ ] 양방향 연결 리스트
 
 ## Chapter 06 스택(Stack)
