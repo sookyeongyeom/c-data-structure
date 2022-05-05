@@ -9,9 +9,9 @@
  
 ## Chapter 02 재귀(Recursion)
 **22.05.04 수**
-- [ ] 함수의 재귀적 호출의 이해 ✔
-- [ ] 재귀의 활용 ✔
-- [ ] 하노이 타워: The Tower of Hanoi ✔
+- [X] 함수의 재귀적 호출의 이해 ✔
+- [X] 재귀의 활용 ✔
+- [X] 하노이 타워: The Tower of Hanoi ✔
 
 ## Chapter 03 연결 리스트(Linked List) 1
 **22.05.05 목**
