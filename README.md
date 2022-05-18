@@ -12,8 +12,8 @@
 - [X] 하노이 타워: The Tower of Hanoi ✔
 
 ## Chapter 03 연결 리스트(Linked List) 1
-- [ ] 추상 자료형: Abstract Data Type ✔
-- [ ] 배열을 이용한 리스트의 구현 ✔
+- [X] 추상 자료형: Abstract Data Type ✔
+- [X] 배열을 이용한 리스트의 구현 ✔
 
 ## Chapter 04 연결 리스트(Linked List) 2
 - [ ] 연결 리스트의 개념적인 이해 ✔
